@@ -1,4 +1,6 @@
 # Carpet-Emporium-Website live page
+➜ https://jcrunchhh.github.io/Carpet-Emporium-Website/index.html
+
 ![second_web_page](https://github.com/user-attachments/assets/793add2b-f193-4747-876b-fa14faad94da)
 
 # 🧐 About
